@@ -1,4 +1,13 @@
-## Hi there 👋
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hamza-amrani/)
+
+### Hi, I'm Hamza! &nbsp;&nbsp;<sup>:computer: &#12299;Enjoying coffee and research.</sup>
+
+----
+
+**PhD Student** &#12299;_Embodied AI, Machine Learning, Signal Processing_
+<br/>
+**Currently** &#12299;_Visiting PhD at Carnegie Mellon University • Research Intern at MyoSuite_
+
 
 <!--
 **hamzaamrani/hamzaamrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
