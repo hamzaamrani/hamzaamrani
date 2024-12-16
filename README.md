@@ -4,9 +4,9 @@
 
 ----
 
-**PhD Student** &#12299;_Embodied AI, Machine Learning, Signal Processing_
+**PhD Student** &#12299;_Embodied AI, Machine Learning, Signal Processing at University of Milan-Bicocca_
 <br/>
-**Currently** &#12299;_Visiting PhD at Carnegie Mellon University • Research Intern at MyoSuite_
+**Currently** &#12299;_Visiting PhD at Carnegie Mellon University_
 
 ----
 **Email:** [hamza.amrani@unimib.it](mailto:hamza.amrani@unimib.it) or [amrani.hamzi@gmail.com](mailto:amrani.hamzi@gmail.com)
